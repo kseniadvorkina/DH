@@ -7,11 +7,18 @@ body {
 header {
     background-color: #f3d5b5; /* Off-white to warm color */
     padding: 20px;
-    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Shadow effect */
+}
+.logo {
+    margin-left: 20px; /* Adjust as needed */
 }
 nav ul {
     list-style-type: none;
     padding: 0;
+    margin-right: 20px; /* Adjust as needed */
 }
 nav ul li {
     display: inline;
