@@ -37,9 +37,9 @@ nav ul li a:hover {
     text-align: center;
 }
 
-.tenor-gif-embed {  
-    display: flex; 
-    justify-content: center; 
+.gif-container {
+    display: flex;
+    justify-content: center;
     align-items: center;
 }
 
