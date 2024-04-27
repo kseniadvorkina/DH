@@ -13,12 +13,12 @@ header {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Shadow effect */
 }
 .logo {
-    margin-left: 20px; /* Adjust as needed */
+    margin-left: 20px; 
 }
 nav ul {
     list-style-type: none;
     padding: 0;
-    margin-right: 20px; /* Adjust as needed */
+    margin-right: 20px; 
 }
 nav ul li {
     display: inline;
