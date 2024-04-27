@@ -36,3 +36,10 @@ nav ul li a:hover {
     padding: 20px;
     text-align: center;
 }
+
+.tenor-gif-embed {  
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
+
